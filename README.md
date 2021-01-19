@@ -21,4 +21,6 @@ cd into ImageSteganography
  decode:
   python stegoCode.py decode image_name color
   python stegoCode.py decode test.png 0
+  
+  (color goes from 0-2 and represents R, G, or B respectively
 ```
