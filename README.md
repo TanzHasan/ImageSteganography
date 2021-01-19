@@ -11,6 +11,7 @@ pip install -r requirements.txt
 To launch:
 
 clone
+
 cd into ImageSteganography
 
  encode:
